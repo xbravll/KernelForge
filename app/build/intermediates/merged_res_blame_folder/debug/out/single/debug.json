@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_shield.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_bg_dialog.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_tools.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_tools.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_chip_stroke_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/chip_stroke_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_switch_thumb_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/switch_thumb_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_monitor.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_monitor.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_chip_text_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/chip_text_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.lenirra.app-main-37:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_fps.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_fps.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_github.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_github.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_spinner_item_white.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/spinner_item_white.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_switch_track_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/switch_track_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_profile.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_bar_chart.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_bar_chart.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_bg_boost_button.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/bg_boost_button.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_nav_item_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_home.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_kernel.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_kernel.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_home.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_gpu.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_gpu.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_spinner_dropdown_item_white.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/spinner_dropdown_item_white.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/color_chip_bg_color.xml.flat",
+        "source": "com.lenirra.app-main-37:/color/chip_bg_color.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_bg_card.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_tools.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_tools.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_bg_bottom_nav.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/bg_bottom_nav.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_boot.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_boot.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_system.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_system.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/anim_fragment_fade_exit.xml.flat",
+        "source": "com.lenirra.app-main-37:/anim/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_fragment_kernel.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/fragment_kernel.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/anim_fragment_fade_enter.xml.flat",
+        "source": "com.lenirra.app-main-37:/anim/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "com.lenirra.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_ic_fps_active.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/ic_fps_active.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/drawable_bg_card_accent.xml.flat",
+        "source": "com.lenirra.app-main-37:/drawable/bg_card_accent.xml"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.lenirra.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lenirra.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

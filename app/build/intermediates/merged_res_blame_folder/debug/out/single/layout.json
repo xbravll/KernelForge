@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/activity_splash.xml",
+        "source": "com.lenirra.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_tools.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_tools.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/spinner_item_white.xml",
+        "source": "com.lenirra.app-main-37:/layout/spinner_item_white.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_kernel.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_kernel.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_system.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_system.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_gpu.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_gpu.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_home.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/fragment_profile.xml",
+        "source": "com.lenirra.app-main-37:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.lenirra.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lenirra.app-mergeDebugResources-34:/layout/spinner_dropdown_item_white.xml",
+        "source": "com.lenirra.app-main-37:/layout/spinner_dropdown_item_white.xml"
+    }
+]

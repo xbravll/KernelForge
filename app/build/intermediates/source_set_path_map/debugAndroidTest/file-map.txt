@@ -1,0 +1,6 @@
+com.lenirra.app.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\Administrator\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.18.8-hotspot\caches\9.0-milestone-1\transforms\435e2a7652ab22e68792c3d1bbc497b0\transformed\jetified-annotation-experimental-1.3.0\res
+com.lenirra.app.test.app-jetified-core-1.5.0-1 C:\Users\Administrator\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.18.8-hotspot\caches\9.0-milestone-1\transforms\c9568c27bdfd4019eeae48ab30e7aa78\transformed\jetified-core-1.5.0\res
+com.lenirra.app.test.app-androidTest-2 C:\Users\Administrator\Documents\APP PROJECT\KernelForgeTweak_updated\KFT_out\app\build\generated\res\resValues\androidTest\debug
+com.lenirra.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\Administrator\Documents\APP PROJECT\KernelForgeTweak_updated\KFT_out\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.lenirra.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\Administrator\Documents\APP PROJECT\KernelForgeTweak_updated\KFT_out\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.lenirra.app.test.app-merged_res-5 C:\Users\Administrator\Documents\APP PROJECT\KernelForgeTweak_updated\KFT_out\app\build\intermediates\merged_res\debugAndroidTest
